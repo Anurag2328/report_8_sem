@@ -1,1 +1,1 @@
-# Provisioning EC2 instances over AWS using Terraform and configuring Kubernetes Cluster on those instances using ansible. 
+# Provisioning EC2 instances over AWS using Infrastructure as a Code(Terraform). Configuring Multi-Node Kubernetes Cluster over those instances using Ansible Roles. 
